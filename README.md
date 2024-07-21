@@ -4,6 +4,9 @@
 
 The MikroTik Device Info Lookup tool is designed to help WISP installation technicians and non-technical staff quickly and easily fetch DHCP lease information for devices connected to MikroTik routers. This tool was developed to simplify the process for installation technicians, making it easier for them to retrieve necessary information without needing to perform network scans or have deep technical knowledge of router configurations.
 
+![image](https://github.com/user-attachments/assets/d3c7a41c-2de1-4ec3-9610-3580d87155fa)
+
+
 ## Features
 
 - **Easy Login:** Enter your MikroTik router username and password.
